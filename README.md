@@ -1,1 +1,3 @@
 # Simple-calculaor
+ created by - sashwat koriala 
+     I made this from a youtube tutorial by - Web dev simplified...
